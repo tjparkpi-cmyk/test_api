@@ -3,3 +3,12 @@
 엔트리 api 불러오기 테스트 api json입니다.
 
 https://my-entry-api.onrender.com/data.json 로 접속하실수 있습니다.
+
+______________________________________________________________________
+RENDER 배포  
+
+web service 클릭
+
+언어 : Python3
+BRANCH : main  
+Start Command :python3
